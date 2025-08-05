@@ -1,4 +1,4 @@
-// CLIENT (Windows C++ - Compile with: g++ -o client.exe client.cpp -lcurl -lcrypto -static)
+// CLIENT (Windows C++ - 7WLHA LE .EXE : g++ -o client.exe client.cpp -lcurl -lcrypto -static)
 #include <Windows.h>
 #include <fstream>
 #include <curl/curl.h>
